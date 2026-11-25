@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="tw_name_prayer">اوقات شرعی و اذان بعدی</string>
+<string name="tw_name_date">تاریخ سه‌گانه و ساعت</string>
+<string name="tw_name_occ">مناسبت امروز و گزیده‌ی نصایح</string>
+<string name="tw_name_month">تقویم ماه</string>
+<string name="tw_name_ram">ماه رمضان: افطار و سحر</string>
+<string name="tw_desc_prayer">شمارش معکوس تا اذان بعدی با نوار پیشرفت و اوقات امروز</string>
+<string name="tw_desc_date">تاریخ شمسی، قمری و میلادی همراه با ساعت</string>
+<string name="tw_desc_occ">مناسبت‌های امروز و گزیده‌ای از کتاب نصایح</string>
+<string name="tw_desc_month">تقویم کوچک ماه با نقطه‌ی مناسبت‌ها</string>
+<string name="tw_desc_ram">مانده تا افطار و سحر در ماه رمضان</string>
+<string name="tw_name_page">روزی یک صفحه</string>
+<string name="tw_name_life">روز زندگی من</string>
+<string name="tw_name_next">مناسبت بعدی</string>
+<string name="tw_desc_page">هر روز یک صفحه از قرآن، کتاب یا دعا</string>
+<string name="tw_desc_life">امروز چندمین روز زندگی شماست، سن دقیق و تا تولد بعدی</string>
+<string name="tw_desc_next">نزدیک‌ترین مناسبت و تعطیلی بعدی با روزشمار</string>
+<string name="tw_name_plan">مدیریت برنامه‌ریزی</string>
+<string name="tw_desc_plan">کارهای امروز با تیک «انجام شد» و نوار پیشرفت روز</string>
+</resources>
